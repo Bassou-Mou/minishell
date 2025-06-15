@@ -1,0 +1,10 @@
+Makefile
+minishell
+minishell.c
+minishell.o
+Rapport.pdf
+readcmd.c
+readcmd.h
+readcmd.o
+test_readcmd.c
+text.txt
