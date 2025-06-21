@@ -31,4 +31,4 @@ Méthodologie de test :
 ⛔ Tests robustes sur la gestion des signaux
 
 
-📄 Technologies : C, Unix/Linux, readcmd.h
+Technologies : C, Unix/Linux, readcmd.h
