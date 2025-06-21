@@ -1,7 +1,7 @@
 # minishell
-🎯 Objectif : Développer un mini-interpréteur de commandes type Unix (shell) en langage C dans le cadre du module Systèmes d'exploitation centralisés à l'ENSEEIHT.
+Objectif : Développer un mini-interpréteur de commandes type Unix (shell) en langage C dans le cadre du module Systèmes d'exploitation centralisés à l'ENSEEIHT.
 
-🧠 Fonctionnalités principales :
+Fonctionnalités principales :
 
 ⚙️ Exécution de commandes via fork() et execvp()
 
@@ -17,7 +17,8 @@
 
 🧩 Architecture modulaire et évolutive
 
-🧪 Méthodologie de test :
+
+Méthodologie de test :
 
 ✅ Commandes simples (ls, pwd, exit)
 
@@ -29,12 +30,5 @@
 
 ⛔ Tests robustes sur la gestion des signaux
 
-💡 Ce projet m’a permis de :
-
-Approfondir ma maîtrise des appels systèmes Unix/Linux 🐧
-
-Comprendre en profondeur la gestion des processus et des signaux ⚠️
-
-Appliquer les principes de conception modulaire en C 🔧
 
 📄 Technologies : C, Unix/Linux, readcmd.h
